@@ -18,10 +18,10 @@
 	
 }
 #s{
-	display:flex;
+/* 	display:flex; */
 /* 	margin:px;
 	padding:px; */
-	justify-content:right;
+	text-align:right;
 	color:black;
 	
 	
